@@ -2,49 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
-            margin: 20px;
-            padding: 20px;
-        }
-
-  h1 {
-            color: #333;
-        }
-
-  h2 {
-            color: #555;
-        }
-
-  p {
-            color: #666;
-            line-height: 1.4;
-        }
-
-   pre {
-            background-color: #f7f7f7;
-            padding: 10px;
-            border: 1px solid #ddd;
-        }
-
-   code {
-            font-family: "Courier New", monospace;
-            background-color: #f7f7f7;
-            padding: 2px 4px;
-            border: 1px solid #ddd;
-        }
-
-  ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-
-  li {
-            margin: 5px 0;
-        }
-    </style>
+ 
 </head>
 <body>
     <h1>Arch Linux Masaüstü Ortamı Kurulumu Rehberi</h1>
