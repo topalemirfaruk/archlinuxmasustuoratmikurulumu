@@ -2,13 +2,13 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <style>
+ <style>
      body {
-            font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
-            margin: 20px;
-            padding: 20px;
-        }
+     font-family: Arial, sans-serif;
+     background-color: #f2f2f2;
+     margin: 20px;
+     padding: 20px;
+     }
 
 h1 {
             color: #333;
