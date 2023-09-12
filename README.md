@@ -2,9 +2,8 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Arch Linux Masaüstü Ortamı Kurulumu Rehberi</title>
     <style>
-        body {
+     body {
             font-family: Arial, sans-serif;
             background-color: #f2f2f2;
             margin: 20px;
