@@ -3,6 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <title>Arch Linux Masaüstü Ortamı Kurulumu Rehberi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 20px;
+            padding: 20px;
+        }
+
+h1 {
+            color: #333;
+        }
+
+ h2 {
+            color: #555;
+        }
+
+  p {
+            color: #666;
+            line-height: 1.4;
+        }
+
+ pre {
+            background-color: #f7f7f7;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+
+ code {
+            font-family: "Courier New", monospace;
+            background-color: #f7f7f7;
+            padding: 2px 4px;
+            border: 1px solid #ddd;
+        }
+
+ ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+
+li {
+            margin: 5px 0;
+        }
+</style>
+</head>
+<body>
+    <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
 </head>
 <body>
     <h1>Arch Linux Masaüstü Ortamı Kurulumu Rehberi</h1>
@@ -71,5 +120,8 @@
  <p>Artık Arch Linux üzerinde kendi masaüstü ortamınızı kullanabilirsiniz. Arch Linux size özgürlük ve özelleştirme imkanı sunar, bu nedenle yeni bir deneyime hazır olun!</p>
 
 <p>Umarım bu rehber, Arch Linux'a masaüstü ortamı kurmanıza yardımcı olur. Herhangi bir sorunuz varsa, lütfen bize bildirin. İyi eğlenceler ve başarılar dileriz!</p>
+</body>
+</html>
+
 </body>
 </html>
